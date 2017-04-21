@@ -1,0 +1,15 @@
+{
+  "name": "nbtest",
+  "version": "1.0.1",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [ "big.file" ],
+  "publishConfig" : {
+    "registry" : "http://localhost:8081/repository/npm-hosted"
+  }
+}

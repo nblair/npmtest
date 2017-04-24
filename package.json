@@ -1,6 +1,6 @@
 {
   "name": "nbtest",
-  "version": "1.0.10",
+  "version": "1.0.11-pre",
   "description": "testing",
   "main": "index.js",
   "scripts": {

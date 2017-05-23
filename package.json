@@ -1,6 +1,6 @@
 {
   "name": "nbtest",
-  "version": "1.0.11-pre",
+  "version": "1.0.12",
   "description": "testing",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "publishConfig": {
     "registry": "http://localhost:8081/repository/npm-hosted"
   },
+  "files": [ "big.file" ],
   "dependencies": {
     "npm-bump": "0.0.20"
   }

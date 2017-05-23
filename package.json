@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nicholas Blair",
   "license": "ISC",
-  "files": [
-    "big.file"
-  ],
   "publishConfig": {
     "registry": "http://localhost:8081/repository/npm-hosted"
   },

@@ -15,6 +15,7 @@
     "big.file"
   ],
   "dependencies": {
+    "@types/underscore": "^1.8.1",
     "npm-bump": "0.0.20"
   }
 }
